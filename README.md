@@ -1,2 +1,3 @@
-# fast-social-platform-nstc
-Automated issue comment bot repository
+# Fast Social Platform Nstc
+
+Automated issue comment bot repository.
